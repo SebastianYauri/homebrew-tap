@@ -1,6 +1,6 @@
 cask "clawdy" do
-  version "1.4.4"
-  sha256 "f3c5274e3a7f67c84dbbbd87ab854c48f35b96c50cb6d60a457e64743a819eb6"
+  version "1.4.5"
+  sha256 "ba8d9ef054ad477f5b227a291678cee62db8b0d964b6699dd83a4a55f182a9bf"
 
   url "https://github.com/SebastianYauri/clawdy/releases/download/v#{version}/Clawdy-mac.zip"
   name "Clawdy"
